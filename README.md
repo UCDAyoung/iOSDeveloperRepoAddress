@@ -15,3 +15,4 @@
 |이름|프로필|리뷰원하는 레포(Optional)|
 |------|---|---|
 |이현호|https://github.com/M1zz|https://github.com/M1zz/GithubRepositorySearcher|
+|박준영|https://github.com/UCDAyoung|https://github.com/UCDAyoung/Project30|
