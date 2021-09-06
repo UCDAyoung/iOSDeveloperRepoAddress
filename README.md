@@ -16,3 +16,4 @@
 |------|---|---|
 |이현호|https://github.com/M1zz|https://github.com/M1zz/GithubRepositorySearcher|
 |박준영|https://github.com/UCDAyoung|https://github.com/UCDAyoung/Project30|
+|탁제원|https://github.com/taknineball|https://github.com/taknineball/StudyFacebook|
